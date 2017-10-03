@@ -1,3 +1,5 @@
+Original repo: https://github.com/ubcs3/2017-Fall
+
 ## UBC Scientific Software Seminar
 
 The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://software-carpentry.org/) and its goal is to help students, graduates, fellows and faculty at UBC develop software skills for science.
